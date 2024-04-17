@@ -1,0 +1,122 @@
+[
+    {
+        "Date": "1 Jan",
+        "Name": "New Year's Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "11 Jan",
+        "Name": "Anniversary of the Independence Manifesto",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "14 Jan",
+        "Name": "Amazigh New Year",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "10 Mar",
+        "Name": "Daylight Saving Time ends",
+        "Type": "Clock change/Daylight Saving Time"
+    },
+    {
+        "Date": "12 Mar",
+        "Name": "Ramadan Start",
+        "Type": "Observance"
+    },
+    {
+        "Date": "20 Mar",
+        "Name": "March Equinox",
+        "Type": "Season"
+    },
+    {
+        "Date": "10 Apr",
+        "Name": "Eid al-Fitr",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "11 Apr",
+        "Name": "Eid al-Fitr Holiday",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "14 Apr",
+        "Name": "Daylight Saving Time starts",
+        "Type": "Clock change/Daylight Saving Time"
+    },
+    {
+        "Date": "1 May",
+        "Name": "Labour Day/May Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "17 Jun",
+        "Name": "Eid al-Adha (Tentative Date)",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "18 Jun",
+        "Name": "Eid al-Adha Holiday (Tentative Date)",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "20 Jun",
+        "Name": "June Solstice",
+        "Type": "Season"
+    },
+    {
+        "Date": "8 Jul",
+        "Name": "Hijra New Year (Tentative Date)",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "30 Jul",
+        "Name": "Feast of the Throne",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "14 Aug",
+        "Name": "Anniversary of the Recovery Oued Ed-Dahab",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "20 Aug",
+        "Name": "Anniversary of the Revolution of the King and the People",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "21 Aug",
+        "Name": "Youth Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "16 Sep",
+        "Name": "The Prophet Muhammad's Birthday (Tentative Date)",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "17 Sep",
+        "Name": "The Prophet Muhammad's Birthday Holiday (Tentative Date)",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "22 Sep",
+        "Name": "September Equinox",
+        "Type": "Season"
+    },
+    {
+        "Date": "6 Nov",
+        "Name": "Anniversary of the Green March",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "18 Nov",
+        "Name": "Independence Day",
+        "Type": "National holiday"
+    },
+    {
+        "Date": "21 Dec",
+        "Name": "December Solstice",
+        "Type": "Season"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "Holiday-morroco/holiday-package",
+    "description": "A PHP package to check Moroccan holidays",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Faiza Rabhi",
+            "email": "faizarabhi8@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\HolidayPackage\\": "src/"
+        }
+    }
+}

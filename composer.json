@@ -9,7 +9,10 @@
       "email": "faizarabhi8@gmail.com"
     }
   ],
+  
   "require": {
+    
+        "php": ">=7.1",
     "holiday-morroco/holiday-package": "^1.0"
   },
   "minimum-stability": "beta",

@@ -11,7 +11,7 @@
   ],
   
   "require": {
-    "php": ">=8.2.15"
+    "php": ">=7.1"
   },
   "minimum-stability": "beta",
   "autoload": {
@@ -20,6 +20,6 @@
     }
   },
   "provide": {
-    "carbon": "^2.0"
+    "vendor/package": "^2.0"
   }
 }

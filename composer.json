@@ -18,5 +18,8 @@
     "psr-4": {
       "Vendor\\HolidayPackage\\": "src/"
     }
+  },
+  "provide": {
+    "carbon": "^2.0"
   }
 }

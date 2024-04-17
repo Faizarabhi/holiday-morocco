@@ -1,5 +1,5 @@
 {
-    "name": "Holiday-morroco/holiday-package",
+    "name": "holiday-morroco/holiday-package",
     "description": "A PHP package to check Moroccan holidays",
     "type": "library",
     "license": "MIT",
